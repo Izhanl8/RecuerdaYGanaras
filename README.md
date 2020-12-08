@@ -17,4 +17,4 @@ Juego da las parejas. Elije dos correctas y sumaras puntos!
 
 ---
 ### Firma 
-Izha.l8
+Izhan.l8
