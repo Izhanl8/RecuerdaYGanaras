@@ -10,7 +10,7 @@ Juego da las parejas. Elije dos correctas y sumaras puntos!
 [Recuerda Y Ganaras](https://recuerdaygaaras.glitch.me/)
 
 ## Imagen De La Pagina Web Final
-[FOTO WEB](FotoWebJuego1.png, 'Foto Del Juego')
+![FOTO WEB](FotoWebJuego1.png, 'Foto Del Juego')
 ---
 ### Firma 
 izha.l8
